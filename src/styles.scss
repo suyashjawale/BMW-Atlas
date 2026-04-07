@@ -1,1 +1,65 @@
-/* You can add global styles to this file, and also import other style files */
+@use '../node_modules/bootstrap/scss/bootstrap' as *;
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+$form-range-thumb-width: 0.7rem;
+$form-range-track-height: 0.15rem;
+$form-range-thumb-bg: white;
+$form-range-track-bg: rgb(226, 226, 226);
+
+body {
+    font-family: "Google Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: small;
+    font-style: normal;
+    font-variation-settings:
+        "GRAD" 0;
+
+    &::-webkit-scrollbar {
+        width: 0;
+    }
+
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.loader {
+    width: 22px;
+    aspect-ratio: 2;
+    --_g: no-repeat radial-gradient(circle closest-side, #000 90%, #0000);
+    background:
+        var(--_g) 0% 50%,
+        var(--_g) 50% 50%,
+        var(--_g) 100% 50%;
+    background-size: calc(100%/3) 50%;
+    animation: l3 1s infinite linear;
+}
+
+@keyframes l3 {
+    20% {
+        background-position: 0% 0%, 50% 50%, 100% 50%
+    }
+
+    40% {
+        background-position: 0% 100%, 50% 0%, 100% 50%
+    }
+
+    60% {
+        background-position: 0% 50%, 50% 100%, 100% 0%
+    }
+
+    80% {
+        background-position: 0% 50%, 50% 50%, 100% 100%
+    }
+}
+
+.aspect{
+    aspect-ratio: 5/3;
+}
