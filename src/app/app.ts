@@ -27,7 +27,13 @@ export class App {
 
 	ngOnInit() {
 		this.http.get<BikeDataMap>('modelList.json').subscribe(data => {
-			this.model_data.set(data);
+			const entries = Object.entries(data);
+
+			// 2. Shuffle the pairs using the sort hack
+			entries.sort(() => Math.random() - 0.5);
+
+			// 3. Reconstruct into an object and update signal
+			this.model_data.set(Object.fromEntries(entries));
 			this.scheduleImageLoad();
 		});
 	}
@@ -92,7 +98,7 @@ export class App {
 			delta > 0 ? this.next() : this.prev();
 		}
 	}
-	
+
 	openLink(link: string) {
 		window.open(link);
 	}
