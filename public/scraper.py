@@ -459,7 +459,7 @@ def main():
                 if newModelName not in modelList:
                     modelList[newModelName] = {"segment":currentType,"modelCode":model_code, "locations":[]}
 
-                image_name = f"{model_code.replace(" ","_")}_{location['location'].replace(" ","_")}{get_extension(img_src)}".lower()
+                image_name = f"{model_code.replace(' ','_')}_{location['location'].replace(' ','_')}{get_extension(img_src)}".lower()
                 if not os.path.exists(os.path.join(IMAGE_DIR, image_name)):
                     download_image(img_src,image_name)
                 modelList[newModelName]['locations'].append({
