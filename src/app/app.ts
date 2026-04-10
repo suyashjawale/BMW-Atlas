@@ -1,6 +1,6 @@
 import { Component, computed, HostListener, signal } from '@angular/core';
-import { models as modelData } from './data/data';
 import { BikeDataMap } from './interface/bike-data-map';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
 	selector: 'app-root',
@@ -10,7 +10,7 @@ import { BikeDataMap } from './interface/bike-data-map';
 })
 export class App {
 	Math = Math;
-	model_data = signal<BikeDataMap>(modelData);
+	model_data = signal<BikeDataMap>({});
 	models = computed(() =>
 		Object.keys(this.model_data()).map(key => ({
 			modelName: key,
@@ -23,8 +23,13 @@ export class App {
 	showImages = signal(false);
 	private imageTimer: any;
 
+	constructor(private http: HttpClient) { }
+
 	ngOnInit() {
-		this.scheduleImageLoad();
+		this.http.get<BikeDataMap>('modelList.json').subscribe(data => {
+			this.model_data.set(data);
+			this.scheduleImageLoad();
+		});
 	}
 
 	visibleItems = computed(() => {
@@ -87,6 +92,7 @@ export class App {
 			delta > 0 ? this.next() : this.prev();
 		}
 	}
+	
 	openLink(link: string) {
 		window.open(link);
 	}
