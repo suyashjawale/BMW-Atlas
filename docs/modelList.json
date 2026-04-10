@@ -3970,6 +3970,12 @@
                 "imageName": "0f61_poland.jpg"
             },
             {
+                "imgLink": "https://www.bmw-motorrad.pl/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-k1600ga-P0N3G-modeloverview-600x360.jpg.asset.1718115614595.jpg",
+                "modelLink": "https://www.bmw-motorrad.pl/pl/models/tour/k1600-grand-america.html",
+                "location": "Poland",
+                "imageName": "zf61_poland.jpg"
+            },
+            {
                 "imgLink": "https://www.bmw-motorrad.pt/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-k1600b-P0N3G-modeloverview-600x360.jpg.asset.1718115577383.jpg",
                 "modelLink": "https://www.bmw-motorrad.pt/pt/models/tour/k1600b.html",
                 "location": "Portugal",
@@ -4310,12 +4316,6 @@
                 "modelLink": "https://www.bmw-motorrad.no/en/models/tour/k1600-grand-america.html",
                 "location": "Norway",
                 "imageName": "0f61_s047a_norway.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.pl/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-k1600ga-P0N3G-modeloverview-600x360.jpg.asset.1718115614595.jpg",
-                "modelLink": "https://www.bmw-motorrad.pl/pl/models/tour/k1600-grand-america.html",
-                "location": "Poland",
-                "imageName": "0f61_s047a_poland.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.pt/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-k1600ga-P0N3G-modeloverview-600x360.jpg.asset.1718115614595.jpg",
@@ -6124,6 +6124,12 @@
                 "imageName": "0n21_costa_rica.jpg"
             },
             {
+                "imgLink": "https://www.bmw-motorrad.gt/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
+                "modelLink": "https://www.bmw-motorrad.gt/es/models/heritage/r12gs.html",
+                "location": "Guatemala",
+                "imageName": "0n21_guatemala.jpg"
+            },
+            {
                 "imgLink": "https://www.bmw-motorrad.com.mx/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2025/nsc-r12gs-P0N4S-modeloverview-600x360.jpg.asset.1741359113769.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.mx/es/models/heritage/r12gs.html",
                 "location": "Mexico",
@@ -6131,6 +6137,12 @@
             },
             {
                 "imgLink": "https://www.bmw-motorrad.com.py/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2025/nsc-r12gs-P0N4S-modeloverview-600x360.jpg.asset.1741359113769.jpg",
+                "modelLink": "https://www.bmw-motorrad.com.py/es/models/heritage/r12gs.html",
+                "location": "Paraguay",
+                "imageName": "0n21_paraguay.jpg"
+            },
+            {
+                "imgLink": "https://www.bmw-motorrad.com.py/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.py/es/models/heritage/r12gs.html",
                 "location": "Paraguay",
                 "imageName": "0n21_paraguay.jpg"
