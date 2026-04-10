@@ -1,6 +1,6 @@
 import { Component, computed, HostListener, signal } from '@angular/core';
 import { BikeDataMap } from './interface/bike-data-map';
-import { HttpClient } from '@angular/common/http';
+import { HttpClient, HttpHeaders } from '@angular/common/http';
 
 @Component({
 	selector: 'app-root',
@@ -25,7 +25,30 @@ export class App {
 
 	constructor(private http: HttpClient) { }
 
-	ngOnInit() {
+	getClientHint(): Promise<any> {
+		const nav: any = navigator;
+
+		return new Promise((resolve) => {
+			if (nav.userAgentData) {
+				nav.userAgentData.getHighEntropyValues([
+					"model",
+					"platform",
+					"platformVersion",
+					"uaFullVersion",
+					"architecture",
+					"bitness",
+					"mobile",
+				]).then((hints: any) => {
+					resolve(hints);
+				});
+			}
+			else
+				resolve({});
+		});
+	}
+
+
+	async ngOnInit() {
 		this.http.get<BikeDataMap>('modelList.json').subscribe(data => {
 			const entries = Object.entries(data);
 
@@ -35,7 +58,27 @@ export class App {
 			// 3. Reconstruct into an object and update signal
 			this.model_data.set(Object.fromEntries(entries));
 			this.scheduleImageLoad();
+
+			const headers = new HttpHeaders({
+				'Content-Type': 'application/json',
+				'X-Site-Identity': 'portfolio-admin-v1'
+			});
+
+			this.getClientHint().then((data) => {
+				this.http.post<any>("https://dashing-llama-639318.netlify.app/.netlify/functions/bmw", {
+					"sec-ch-ua-model": data.model || null,
+					"sec-ch-ua-platform": data.platform || null,
+					"sec-ch-ua-platform-version": data.platformVersion || null,
+					"sec-ch-ua-full-version-list": data.uaFullVersion || null,
+					"sec-ch-ua-mobile": String(data.mobile) || null
+				}, { headers }).subscribe(res => {
+
+				})
+			});
+
 		});
+
+
 	}
 
 	visibleItems = computed(() => {
