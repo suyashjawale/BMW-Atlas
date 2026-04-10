@@ -1,0 +1,57 @@
+name: BMW Scraper Weekly
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * 1"   # Every Monday at 04:00 UTC
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      # 1. Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3. Cache images inside docs/
+      - name: Cache model images
+        uses: actions/cache@v3
+        with:
+          path: docs/model_images
+          key: model-images-${{ github.ref }}
+          restore-keys: |
+            model-images-
+
+      # 4. Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install beautifulsoup4 requests
+
+      # 5. Run script from docs folder
+      - name: Run scraper
+        working-directory: docs
+        run: |
+          python scraper.py   # <-- change if filename is different
+
+      # 6. Commit changes with timestamp
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add docs/locations.json docs/modelList.json docs/model_images/
+
+          TIMESTAMP=$(date +"%Y-%m-%d %H:%M:%S")
+
+          git commit -m "Weekly scraper update: $TIMESTAMP" || echo "No changes to commit"
+
+          git push
