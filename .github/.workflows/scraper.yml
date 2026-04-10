@@ -1,4 +1,4 @@
-name: BMW Scraper Weekly
+name: BMW Scraper Weekly # Testing Manual Run
 
 on:
   workflow_dispatch:
