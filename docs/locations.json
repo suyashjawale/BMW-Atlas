@@ -1,0 +1,520 @@
+{
+    "direct": [
+        {
+            "location": "Austria",
+            "url": "https://www.bmw-motorrad.at/de/home.html",
+            "model_url": "https://www.bmw-motorrad.at/de/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Bulgaria",
+            "url": "https://www.bmw-motorrad.bg/bg/home.html",
+            "model_url": "https://www.bmw-motorrad.bg/bg/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Czech Republic",
+            "url": "https://www.bmw-motorrad.cz/cs/home.html",
+            "model_url": "https://www.bmw-motorrad.cz/cs/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Denmark",
+            "url": "https://www.bmw-motorrad.dk/en/home.html",
+            "model_url": "https://www.bmw-motorrad.dk/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Estonia",
+            "url": "https://www.bmw-motorrad.ee/et/home.html",
+            "model_url": "https://www.bmw-motorrad.ee/et/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Finland",
+            "url": "https://www.bmw-motorrad.fi/en/home.html",
+            "model_url": "https://www.bmw-motorrad.fi/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "France",
+            "url": "https://www.bmw-motorrad.fr/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.fr/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Germany",
+            "url": "https://www.bmw-motorrad.de/de/home.html",
+            "model_url": "https://www.bmw-motorrad.de/de/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Greece",
+            "url": "https://www.bmw-motorrad.gr/el/home.html",
+            "model_url": "https://www.bmw-motorrad.gr/el/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Hungary",
+            "url": "https://www.bmw-motorrad.hu/hu/home.html",
+            "model_url": "https://www.bmw-motorrad.hu/hu/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Ireland",
+            "url": "https://www.bmw-motorrad.ie/en/home.html",
+            "model_url": "https://www.bmw-motorrad.ie/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Italy",
+            "url": "https://www.bmw-motorrad.it/it/home.html",
+            "model_url": "https://www.bmw-motorrad.it/it/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Latvia",
+            "url": "https://www.bmw-motorrad.lv/lv/home.html",
+            "model_url": "https://www.bmw-motorrad.lv/lv/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Luxembourg",
+            "url": "https://www.bmw-motorrad.lu/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.lu/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Netherlands",
+            "url": "https://www.bmw-motorrad.nl/nl/home.html",
+            "model_url": "https://www.bmw-motorrad.nl/nl/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Norway",
+            "url": "https://www.bmw-motorrad.no/en/home.html",
+            "model_url": "https://www.bmw-motorrad.no/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Poland",
+            "url": "https://www.bmw-motorrad.pl/pl/home.html",
+            "model_url": "https://www.bmw-motorrad.pl/pl/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Portugal",
+            "url": "https://www.bmw-motorrad.pt/pt/home.html",
+            "model_url": "https://www.bmw-motorrad.pt/pt/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Romania",
+            "url": "https://www.bmw-motorrad.ro/ro/home.html",
+            "model_url": "https://www.bmw-motorrad.ro/ro/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Russia",
+            "url": "https://www.bmw-motorrad.ru/ru/home.html",
+            "model_url": "https://www.bmw-motorrad.ru/ru/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Serbia",
+            "url": "https://www.bmw-motorrad.rs/sr/home.html",
+            "model_url": "https://www.bmw-motorrad.rs/sr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Slovakia",
+            "url": "https://www.bmw-motorrad.sk/sk/home.html",
+            "model_url": "https://www.bmw-motorrad.sk/sk/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Slovenia",
+            "url": "https://www.bmw-motorrad.si/sl/home.html",
+            "model_url": "https://www.bmw-motorrad.si/sl/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Spain",
+            "url": "https://www.bmw-motorrad.es/es/home.html",
+            "model_url": "https://www.bmw-motorrad.es/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Sweden",
+            "url": "https://www.bmw-motorrad.se/en/home.html",
+            "model_url": "https://www.bmw-motorrad.se/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "The United Kingdom",
+            "url": "https://www.bmw-motorrad.co.uk/en/home.html",
+            "model_url": "https://www.bmw-motorrad.co.uk/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Türkiye",
+            "url": "https://www.bmw-motorrad.com.tr/tr/home.html",
+            "model_url": "https://www.bmw-motorrad.com.tr/tr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Ukraine",
+            "url": "https://www.bmw-motorrad.ua/uk/home.html",
+            "model_url": "https://www.bmw-motorrad.ua/uk/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Argentina",
+            "url": "https://www.bmw-motorrad.com.ar/es/home.html",
+            "model_url": "https://www.bmw-motorrad.com.ar/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Bolivia",
+            "url": "https://www.bmw-motorrad.bo/es/home.html",
+            "model_url": "https://www.bmw-motorrad.bo/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Brazil",
+            "url": "https://www.bmw-motorrad.com.br/pt/home.html",
+            "model_url": "https://www.bmw-motorrad.com.br/pt/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Chile",
+            "url": "https://www.bmw-motorrad.cl/es/home.html",
+            "model_url": "https://www.bmw-motorrad.cl/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Colombia",
+            "url": "https://www.bmw-motorrad.co/es/home.html",
+            "model_url": "https://www.bmw-motorrad.co/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Costa Rica",
+            "url": "https://www.bmw-motorrad.cr/es/home.html",
+            "model_url": "https://www.bmw-motorrad.cr/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Dominican Republic",
+            "url": "https://www.bmw-motorrad.com.do/es/home.html",
+            "model_url": "https://www.bmw-motorrad.com.do/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Ecuador",
+            "url": "https://www.bmw-motorrad.ec/es/home.html",
+            "model_url": "https://www.bmw-motorrad.ec/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "El Salvador",
+            "url": "https://www.bmw-motorrad.sv/es/home.html",
+            "model_url": "https://www.bmw-motorrad.sv/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Guatemala",
+            "url": "https://www.bmw-motorrad.gt/es/home.html",
+            "model_url": "https://www.bmw-motorrad.gt/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Mexico",
+            "url": "https://www.bmw-motorrad.com.mx/es/home.html",
+            "model_url": "https://www.bmw-motorrad.com.mx/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Panama",
+            "url": "https://www.bmw-motorrad.pa/es/home.html",
+            "model_url": "https://www.bmw-motorrad.pa/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Paraguay",
+            "url": "https://www.bmw-motorrad.com.py/es/home.html",
+            "model_url": "https://www.bmw-motorrad.com.py/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Peru",
+            "url": "https://www.bmw-motorrad.com.pe/es/home.html",
+            "model_url": "https://www.bmw-motorrad.com.pe/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Uruguay",
+            "url": "https://www.bmw-motorrad.uy/es/home.html",
+            "model_url": "https://www.bmw-motorrad.uy/es/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "the USA",
+            "url": "https://www.bmwmotorcycles.com/en/home.html",
+            "model_url": "https://www.bmwmotorcycles.com/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Abu Dhabi",
+            "url": "https://www.bmw-motorrad-abudhabi.com/en/home.html",
+            "model_url": "https://www.bmw-motorrad-abudhabi.com/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Australia",
+            "url": "https://www.bmw-motorrad.com.au/en/home.html",
+            "model_url": "https://www.bmw-motorrad.com.au/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Bahrain",
+            "url": "https://www.bmw-motorrad.bh/en/home.html",
+            "model_url": "https://www.bmw-motorrad.bh/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Dubai",
+            "url": "https://www.bmw-motorrad-dubai.com/en/home.html",
+            "model_url": "https://www.bmw-motorrad-dubai.com/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "India",
+            "url": "https://www.bmw-motorrad.in/en/home.html",
+            "model_url": "https://www.bmw-motorrad.in/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Indonesia",
+            "url": "https://www.bmw-motorrad.co.id/en/home.html",
+            "model_url": "https://www.bmw-motorrad.co.id/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Japan",
+            "url": "https://www.bmw-motorrad.jp/ja/home.html",
+            "model_url": "https://www.bmw-motorrad.jp/ja/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Korea",
+            "url": "https://www.bmw-motorrad.co.kr/ko/home.html",
+            "model_url": "https://www.bmw-motorrad.co.kr/ko/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Malaysia",
+            "url": "https://www.bmw-motorrad.com.my/en/home.html",
+            "model_url": "https://www.bmw-motorrad.com.my/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "New Zealand",
+            "url": "https://www.bmw-motorrad.co.nz/en/home.html",
+            "model_url": "https://www.bmw-motorrad.co.nz/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Oman",
+            "url": "https://www.bmw-motorrad.om/en/home.html",
+            "model_url": "https://www.bmw-motorrad.om/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Philippines",
+            "url": "https://www.bmwmotorrad.com.ph/en/home.html",
+            "model_url": "https://www.bmwmotorrad.com.ph/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Russia",
+            "url": "https://www.bmw-motorrad.ru/ru/home.html",
+            "model_url": "https://www.bmw-motorrad.ru/ru/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Saudi Arabia",
+            "url": "https://www.bmw-motorrad.sa/en/home.html",
+            "model_url": "https://www.bmw-motorrad.sa/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Singapore",
+            "url": "https://www.bmwmotorrad.com.sg/en/home.html",
+            "model_url": "https://www.bmwmotorrad.com.sg/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Thailand",
+            "url": "https://www.bmw-motorrad.co.th/en/home.html",
+            "model_url": "https://www.bmw-motorrad.co.th/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Vietnam",
+            "url": "https://www.bmw-motorcycles.vn/vi/home.html",
+            "model_url": "https://www.bmw-motorcycles.vn/vi/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Algeria",
+            "url": "https://www.bmw-motorrad.dz/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.dz/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Morocco",
+            "url": "https://www.bmw-motorrad.ma/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.ma/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "South Africa",
+            "url": "https://www.bmw-motorrad.co.za/en/home.html",
+            "model_url": "https://www.bmw-motorrad.co.za/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Belgium-Dutch",
+            "url": "https://www.bmw-motorrad.be/nl/home.html",
+            "model_url": "https://www.bmw-motorrad.be/nl/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Belgium-French",
+            "url": "https://www.bmw-motorrad.be/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.be/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Switzerland-French",
+            "url": "https://www.bmw-motorrad.ch/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.ch/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Switzerland-German",
+            "url": "https://www.bmw-motorrad.ch/de/home.html",
+            "model_url": "https://www.bmw-motorrad.ch/de/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Switzerland-Italian",
+            "url": "https://www.bmw-motorrad.ch/it/home.html",
+            "model_url": "https://www.bmw-motorrad.ch/it/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Canada-English",
+            "url": "https://www.bmw-motorrad.ca/en/home.html",
+            "model_url": "https://www.bmw-motorrad.ca/en/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "Canada-French",
+            "url": "https://www.bmw-motorrad.ca/fr/home.html",
+            "model_url": "https://www.bmw-motorrad.ca/fr/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "China-China mainland",
+            "url": "https://www.bmw-motorrad.com.cn/zh/home.html",
+            "model_url": "https://www.bmw-motorrad.com.cn/zh/models/modeloverview.html",
+            "exists": true
+        },
+        {
+            "location": "China-Hong Kong, China",
+            "url": "https://www.bmw-motorrad.hk/en/home.html",
+            "model_url": "https://www.bmw-motorrad.hk/en/models/modeloverview.html",
+            "exists": true
+        }
+    ],
+    "indirect": [
+        {
+            "location": "Bosnia and Hercegovina",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=bosnia-hercegovina"
+        },
+        {
+            "location": "Cyprus",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=cyprus"
+        },
+        {
+            "location": "Iceland",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=iceland"
+        },
+        {
+            "location": "Lithuania",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=lithuania"
+        },
+        {
+            "location": "Malta",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=malta"
+        },
+        {
+            "location": "Moldova",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=moldova"
+        },
+        {
+            "location": "Israel",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=israel"
+        },
+        {
+            "location": "Kuwait",
+            "url": "https://www.facebook.com/Q8BMWMotoClub/"
+        },
+        {
+            "location": "Lebanon",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=lebanon"
+        },
+        {
+            "location": "Qatar",
+            "url": "https://www.alfardanmotorcycles.com/brands/bmwmotorrad-qatar/"
+        },
+        {
+            "location": "Angola",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=angola"
+        },
+        {
+            "location": "Kenya",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=kenya"
+        },
+        {
+            "location": "Mauritius",
+            "url": "https://www.bmw-motorrad.com/en/importeur/importercontent.html?importer=mauritius"
+        },
+        {
+            "location": "Croatia",
+            "url": "https://www.bmw-motorrad.com.hr/hr/home.html",
+            "model_url": "https://www.bmw-motorrad.com.hr/hr/models/modeloverview.html",
+            "exists": false
+        },
+        {
+            "location": "Jordan",
+            "url": "https://bmw-motorrad-jo.com/",
+            "model_url": "https://bmw-motorrad-jo.com//models/modeloverview.html",
+            "exists": false
+        },
+        {
+            "location": "Pakistan",
+            "url": "https://www.bmw-motorrad.com.pk/",
+            "model_url": "https://www.bmw-motorrad.com.pk//models/modeloverview.html",
+            "exists": false
+        },
+        {
+            "location": "China-Taiwan, China",
+            "url": "https://www.bmw-motorrad.tw/zh/home.html",
+            "model_url": "https://www.bmw-motorrad.tw/zh/models/modeloverview.html",
+            "exists": false
+        }
+    ]
+}
