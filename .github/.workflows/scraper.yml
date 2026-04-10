@@ -1,7 +1,8 @@
-name: BMW Scraper Weekly # Testing Manual Run
+name: BMW Scraper Weekly
 
 on:
   workflow_dispatch:
+	push:
   schedule:
     - cron: "0 4 * * 1"   # Every Monday at 04:00 UTC
 
@@ -34,7 +35,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install beautifulsoup4 requests
+          pip install beautifulsoup4 requests lxml
 
       # 5. Run script from docs folder
       - name: Run scraper
