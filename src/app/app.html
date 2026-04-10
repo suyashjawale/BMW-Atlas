@@ -18,7 +18,9 @@
 </div>
 
 <div class="content-display text-center py-3 sticky-top bg-white shadow-sm fw-medium">
+	@if(models().length>0){
 	{{ models()[currentIndex()].modelName }} ({{models()[currentIndex()].segment}})
+	}
 </div>
 
 @if(models().length>0){
