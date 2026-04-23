@@ -284,7 +284,7 @@
         },
         {
             "location": "Dubai",
-            "url": "https://www.bmw-motorrad-dubai.com/en/home.html?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=x&X-Amz-Date=20200101T000000Z&X-Amz-Expires=1&X-Amz-SignedHeaders=host&X-Amz-Signature=aaa",
+            "url": "https://www.bmw-motorrad-dubai.com/en/home.html",
             "model_url": "https://www.bmw-motorrad-dubai.com/en/models/modeloverview.html",
             "exists": true
         },
