@@ -325,12 +325,6 @@
             "exists": true
         },
         {
-            "location": "Oman",
-            "url": "https://www.bmw-motorrad.om/en/home.html",
-            "model_url": "https://www.bmw-motorrad.om/en/models/modeloverview.html",
-            "exists": true
-        },
-        {
             "location": "Philippines",
             "url": "https://www.bmwmotorrad.com.ph/en/home.html",
             "model_url": "https://www.bmwmotorrad.com.ph/en/models/modeloverview.html",
@@ -502,6 +496,12 @@
             "location": "Jordan",
             "url": "https://bmw-motorrad-jo.com/",
             "model_url": "https://bmw-motorrad-jo.com//models/modeloverview.html",
+            "exists": false
+        },
+        {
+            "location": "Oman",
+            "url": "https://www.bmw-motorrad.com/en/oman.html",
+            "model_url": "https://www.bmw-motorrad.com/en/models/modeloverview.html",
             "exists": false
         },
         {
