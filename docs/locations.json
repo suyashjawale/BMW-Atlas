@@ -437,6 +437,12 @@
             "url": "https://www.bmw-motorrad.hk/en/home.html",
             "model_url": "https://www.bmw-motorrad.hk/en/models/modeloverview.html",
             "exists": true
+        },
+        {
+            "location": "China-Taiwan, China",
+            "url": "https://www.bmw-motorrad.tw/zh/home.html",
+            "model_url": "https://www.bmw-motorrad.tw/zh/models/modeloverview.html",
+            "exists": true
         }
     ],
     "indirect": [
@@ -508,12 +514,6 @@
             "location": "Pakistan",
             "url": "https://www.bmw-motorrad.com.pk/",
             "model_url": "https://www.bmw-motorrad.com.pk//models/modeloverview.html",
-            "exists": false
-        },
-        {
-            "location": "China-Taiwan, China",
-            "url": "https://www.bmw-motorrad.tw/zh/home.html",
-            "model_url": "https://www.bmw-motorrad.tw/zh/models/modeloverview.html",
             "exists": false
         }
     ]
