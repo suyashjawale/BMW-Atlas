@@ -442,7 +442,7 @@
                 "imageName": "0p21_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/marketES/common/modelos/2024/nsc-s1000rr-P0N3H-modeloverview-600x360.jpg.asset.1730289764058.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-s1000rr-P0N3H-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/sport/s1000rr.html",
                 "location": "Spain",
                 "imageName": "0p21_spain.jpg"
@@ -1312,12 +1312,6 @@
                 "imageName": "0r01_costa_rica.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2022/nsc-f900xr-P0N2L-modeloverview-600x360.jpg.asset.1684925717641.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.do/es/models/sport/f900xr-2024.html",
-                "location": "Dominican Republic",
-                "imageName": "0k21_dominican_republic.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-f900xr-P0NA5-modeloverview-600x360.jpg.asset.1731522429778.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.do/es/models/sport/f900xr.html",
                 "location": "Dominican Republic",
@@ -1358,12 +1352,6 @@
                 "modelLink": "https://www.bmw-motorrad.com.pe/es/models/sport/f900xr.html",
                 "location": "Peru",
                 "imageName": "0r01_peru.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2022/nsc-f900xr-P0N2L-modeloverview-600x360.jpg.asset.1684925717641.jpg",
-                "modelLink": "https://www.bmw-motorrad.uy/es/models/sport/f900xr-2024.html",
-                "location": "Uruguay",
-                "imageName": "0k21_uruguay.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-f900xr-P0NA5-modeloverview-600x360.jpg.asset.1731522429778.jpg",
@@ -1738,7 +1726,7 @@
                 "imageName": "0p41_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/marketES/common/modelos/2024/nsc-m1000rr-P0N3S-modeloverview-600x360.jpg.asset.1730289730350.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-m1000rr-P0N3S-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/m/m1000rr.html",
                 "location": "Spain",
                 "imageName": "0p41_spain.jpg"
@@ -2140,7 +2128,7 @@
                 "imageName": "0p51_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/marketES/common/modelos/2024/nsc-m1000r-P0N3H-modeloverview-600x360.jpg.asset.1730289757843.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-m1000r-P0N3H-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/m/m1000r.html",
                 "location": "Spain",
                 "imageName": "0p51_spain.jpg"
@@ -2536,7 +2524,7 @@
                 "imageName": "0e91_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-m1000xr-P0N3S-modeloverview-600x360.jpg.asset.1750945135637.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-m1000xr-P0N3S-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/m/m1000xr.html",
                 "location": "Spain",
                 "imageName": "0e91_spain.jpg"
@@ -2954,6 +2942,12 @@
                 "modelLink": "https://www.bmw-motorrad.cr/es/models/tour/r1300rt.html",
                 "location": "Costa Rica",
                 "imageName": "0m41_costa_rica.jpg"
+            },
+            {
+                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-r1300rt-P0N4A-modeloverview-600x360.jpg.asset.1745913801189.jpg",
+                "modelLink": "https://www.bmw-motorrad.com.do/es/models/tour/r1300rt.html",
+                "location": "Dominican Republic",
+                "imageName": "0m41_dominican_republic.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.ec/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-r1300rt-P0N4A-modeloverview-600x360.jpg.asset.1745913801189.jpg",
@@ -4678,6 +4672,12 @@
                 "imageName": "0m51_türkiye.jpg"
             },
             {
+                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-r1300r-P0N4U-modeloverview-600x360.jpg.asset.1742207942224.jpg",
+                "modelLink": "https://www.bmw-motorrad.com.do/es/models/roadster/r1300r.html",
+                "location": "Dominican Republic",
+                "imageName": "0m51_dominican_republic.jpg"
+            },
+            {
                 "imgLink": "https://www.bmw-motorrad.ec/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-r1300r-P0N4U-modeloverview-600x360.jpg.asset.1742207942224.jpg",
                 "modelLink": "https://www.bmw-motorrad.ec/es/models/roadster/r1300r.html",
                 "location": "Ecuador",
@@ -4840,6 +4840,12 @@
                 "imageName": "0p31_denmark.jpg"
             },
             {
+                "imgLink": "https://www.bmw-motorrad.ee/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-s1000r-P0ND2-modeloverview-600x360.jpg.asset.1728998210863.jpg",
+                "modelLink": "https://www.bmw-motorrad.ee/et/models/roadster/s1000r.html",
+                "location": "Estonia",
+                "imageName": "0p31_estonia.jpg"
+            },
+            {
                 "imgLink": "https://www.bmw-motorrad.fi/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-s1000r-P0ND2-modeloverview-600x360.jpg.asset.1728998210863.jpg",
                 "modelLink": "https://www.bmw-motorrad.fi/en/models/roadster/s1000r.html",
                 "location": "Finland",
@@ -4948,7 +4954,7 @@
                 "imageName": "0p31_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/marketES/common/modelos/2024/nsc-s1000r-P0ND2-modeloverview-600x360.jpg.asset.1730289752540.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-s1000r-P0ND2-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/roadster/s1000r.html",
                 "location": "Spain",
                 "imageName": "0p31_spain.jpg"
@@ -5410,12 +5416,6 @@
                 "imageName": "0k81_costa_rica.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-f900r-P0N4B-modeloverview-600x360.jpg.asset.1686823713585.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.do/es/models/roadster/f900r-2024.html",
-                "location": "Dominican Republic",
-                "imageName": "0k11_dominican_republic.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-f900r-P0N4U-modeloverview-600x360.jpg.asset.1731522447203.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.do/es/models/roadster/f900r.html",
                 "location": "Dominican Republic",
@@ -5462,12 +5462,6 @@
                 "modelLink": "https://www.bmw-motorrad.com.pe/es/models/roadster/f900r.html",
                 "location": "Peru",
                 "imageName": "0k81_peru.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-f900r-P0N2E_600x360.jpg.asset.1623751288111.jpg",
-                "modelLink": "https://www.bmw-motorrad.uy/es/models/roadster/f900r-2024.html",
-                "location": "Uruguay",
-                "imageName": "0k11_uruguay.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-f900r-P0N4U-modeloverview-600x360.jpg.asset.1731522447203.jpg",
@@ -6058,7 +6052,7 @@
                 "imageName": "0n21_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2025/nsc-r12gs-P0N4S-modeloverview-600x360.jpg.asset.1741359113769.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-r12gs-P0N4S-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/heritage/r12gs.html",
                 "location": "Spain",
                 "imageName": "0n21_spain.jpg"
@@ -6116,6 +6110,12 @@
                 "modelLink": "https://www.bmw-motorrad.cr/es/models/heritage/r12gs.html",
                 "location": "Costa Rica",
                 "imageName": "0n21_costa_rica.jpg"
+            },
+            {
+                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2025/nsc-r12gs-P0N4S-modeloverview-600x360.jpg.asset.1741359113769.jpg",
+                "modelLink": "https://www.bmw-motorrad.com.do/es/models/heritage/r12gs.html",
+                "location": "Dominican Republic",
+                "imageName": "0n21_dominican_republic.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.ec/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2025/nsc-r12gs-P0N4S-modeloverview-600x360.jpg.asset.1741359113769.jpg",
@@ -6742,7 +6742,7 @@
                 "imageName": "0n81_slovenia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r18-classic-P0N3G-modeloverview-600x360.jpg.asset.1726831848881.jpg",
+                "imgLink": "https://www.bmw-motorrad.es/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-r18-classic-P0ND2-modeloverview-600x360.jpg",
                 "modelLink": "https://www.bmw-motorrad.es/es/models/heritage/r18-classic.html",
                 "location": "Spain",
                 "imageName": "0n81_spain.jpg"
@@ -7516,12 +7516,6 @@
                 "imageName": "0l31_guatemala.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.mx/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-R18B-P0ND2-First-Edition_600x360.jpg.asset.1626254691010.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.mx/es/models/heritage/r18-b.html",
-                "location": "Mexico",
-                "imageName": "0l31_mexico.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.com.py/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-R18B-P0ND2-First-Edition_600x360.jpg.asset.1626254691010.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.py/es/models/heritage/r18-b.html",
                 "location": "Paraguay",
@@ -7882,12 +7876,6 @@
                 "imageName": "0l41_guatemala.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.mx/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-R18-Transcontinental-P0ND2-First-Edition_600x360.jpg.asset.1626254859265.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.mx/es/models/heritage/r18-transcontinental.html",
-                "location": "Mexico",
-                "imageName": "0l41_mexico.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-R18-Transcontinental-P0ND2-First-Edition_600x360.jpg.asset.1626254859265.jpg",
                 "modelLink": "https://www.bmw-motorrad.uy/es/models/heritage/r18-transcontinental.html",
                 "location": "Uruguay",
@@ -8180,12 +8168,6 @@
                 "modelLink": "https://www.bmw-motorrad.sk/sk/models/heritage/r12-ninet.html",
                 "location": "Slovakia",
                 "imageName": "0n01_slovakia.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.sk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
-                "modelLink": "https://www.bmw-motorrad.sk/sk/models/heritage/r12-s.html",
-                "location": "Slovakia",
-                "imageName": "zn01_slovakia.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.si/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-r12-ninet-P0ND2-2023-modeloverview-600x360.jpg.asset.1700464678069.jpg",
@@ -8710,7 +8692,7 @@
                 "imageName": "0n51_bolivia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.br/content/dam/bmwmotorradnsc/marketBR/bmw-motorrad_com_br/multiimages/models/heritage/r-12/r12-modeloverview-600x360.jpg.asset.1732606742302.jpg",
+                "imgLink": "https://www.bmw-motorrad.com.br/content/dam/bmwmotorradnsc/marketBR/bmw-motorrad_com_br/multiimages/models/heritage/r-12/r12-modeloverview-600x360.jpg.asset.1732628911844.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.br/pt/models/heritage/r12.html",
                 "location": "Brazil",
                 "imageName": "0n51_brazil.jpg"
@@ -8968,12 +8950,6 @@
                 "imageName": "0n01_s0424_austria.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.cz/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
-                "modelLink": "https://www.bmw-motorrad.cz/cs/models/heritage/r12-s.html",
-                "location": "Czech Republic",
-                "imageName": "0n01_s0424_czech_republic.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.dk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
                 "modelLink": "https://www.bmw-motorrad.dk/en/models/heritage/r12-s.html",
                 "location": "Denmark",
@@ -9068,6 +9044,12 @@
                 "modelLink": "https://www.bmw-motorrad.bo/es/models/heritage/r12-s.html",
                 "location": "Bolivia",
                 "imageName": "0n01_s0424_bolivia.jpg"
+            },
+            {
+                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
+                "modelLink": "https://www.bmw-motorrad.com.do/es/models/heritage/r12-s.html",
+                "location": "Dominican Republic",
+                "imageName": "0n01_s0424_dominican_republic.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.ec/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
@@ -9178,12 +9160,6 @@
                 "imageName": "0n01_s0424_thailand.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.co.za/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
-                "modelLink": "https://www.bmw-motorrad.co.za/en/models/heritage/bmw-motorrad-r12-s.html",
-                "location": "South Africa",
-                "imageName": "0n01_s0424_south_africa.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.be/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
                 "modelLink": "https://www.bmw-motorrad.be/nl/models/heritage/r12-s.html",
                 "location": "Belgium-Dutch",
@@ -9236,12 +9212,6 @@
                 "modelLink": "https://www.bmw-motorrad.at/de/models/heritage/r12-s/a2-variante.html",
                 "location": "Austria",
                 "imageName": "0n11_s0424_austria.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.cz/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
-                "modelLink": "https://www.bmw-motorrad.cz/cs/models/heritage/r12-s/a2.html",
-                "location": "Czech Republic",
-                "imageName": "0n11_s0424_czech_republic.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.de/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r12s-P0N42-modeloverview-600x360.jpg.asset.1729260585151.jpg",
@@ -9448,7 +9418,7 @@
                 "imageName": "0m21_bolivia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.br/content/dam/bmwmotorradnsc/marketBR/bmw-motorrad_com_br/multiimages/models/adventure/r-1300-gs/r1300gs-modeloverview-600x360.jpg.asset.1732606740396.jpg",
+                "imgLink": "https://www.bmw-motorrad.com.br/content/dam/bmwmotorradnsc/marketBR/bmw-motorrad_com_br/multiimages/models/adventure/r-1300-gs/r1300gs-modeloverview-600x360.jpg.asset.1732628909962.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.br/pt/models/adventure/r1300gs.html",
                 "location": "Brazil",
                 "imageName": "0m21_brazil.jpg"
@@ -9520,7 +9490,7 @@
                 "imageName": "0m21_peru.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-r1300gs-P0NB5-modeloverview-600x360.jpg.asset.1695735820931.jpg",
+                "imgLink": "https://www.bmw-motorrad.uy/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-r1300gs-P0NA5-modeloverview-600x360.jpg.asset.1750940290972.jpg",
                 "modelLink": "https://www.bmw-motorrad.uy/es/models/adventure/r1300gs.html",
                 "location": "Uruguay",
                 "imageName": "0m21_uruguay.jpg"
@@ -10018,13 +9988,13 @@
                 "imageName": "0m34_malaysia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.co.nz/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2024/nsc-r1300gs-adventure-P0NA5-modeloverview-600x360.jpg.asset.1719305587196.jpg",
+                "imgLink": "https://www.bmw-motorrad.co.nz/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026-2/nsc-r1300gs-adventure-P0NA5-modeloverview-600x360.jpg.asset.1767866900561.jpg",
                 "modelLink": "https://www.bmw-motorrad.co.nz/en/models/adventure/r1300gs-adventure.html",
                 "location": "New Zealand",
                 "imageName": "0m31_new_zealand.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.om/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026/nsc-r1300gs-adventure-P0NA5-modeloverview-600x360.jpg.asset.1750948344709.jpg",
+                "imgLink": "https://www.bmw-motorrad.om/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2026-2/nsc-r1300gs-adventure-P0NA5-modeloverview-600x360.jpg.asset.1767866900561.jpg",
                 "modelLink": "https://www.bmw-motorrad.om/en/models/adventure/r1300gs-adventure.html",
                 "location": "Oman",
                 "imageName": "0m31_oman.jpg"
@@ -13426,12 +13396,6 @@
                 "imageName": "0l11_guatemala.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.mx/content/dam/bmwmotorradnsc/common/images/models/modeloverview/rework/nsc-master-modeloverview-R18PURE-POND2_alternative_600x360.jpg.asset.1625063713781.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.mx/es/models/heritage/r18.html",
-                "location": "Mexico",
-                "imageName": "0l11_mexico.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.com.py/content/dam/bmwmotorradnsc/common/images/models/modeloverview/rework/nsc-master-modeloverview-R18PURE-POND2_600x360.jpg.asset.1608138744353.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.py/es/models/heritage/r18.html",
                 "location": "Paraguay",
@@ -13450,7 +13414,7 @@
                 "imageName": "0l11_uruguay.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.co.id/content/dam/bmwmotorradnsc/marketID_IMPORTER/common/multiimages/mainnavigation/nsc-master-modeloverview-R18PURE-POND2_600x360.jpg.asset.1774865430076.jpg",
+                "imgLink": "https://www.bmw-motorrad.co.id/content/dam/bmwmotorradnsc/marketID_IMPORTER/common/multiimages/mainnavigation/nsc-master-modeloverview-R18PURE-POND2_600x360.jpg.asset.1774865348568.jpg",
                 "modelLink": "https://www.bmw-motorrad.co.id/en/models/heritage/r18.html",
                 "location": "Indonesia",
                 "imageName": "0l11_indonesia.jpg"
@@ -13528,12 +13492,6 @@
                 "imageName": "0m81_colombia.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2022/nsc-r1250rs-P0N2E-modeloverview-600x360.jpg.asset.1666099669190.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.do/es/models/sport/r1250rs.html",
-                "location": "Dominican Republic",
-                "imageName": "0m81_dominican_republic.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.ru/content/dam/bmwmotorradnsc/common/images/models/modeloverview/rework/nsc-master-modeloverview-R1250RS-WN2T_600x360.jpg.asset.1610451104100.jpg",
                 "modelLink": "https://www.bmw-motorrad.ru/ru/models/sport/r1250rs.html",
                 "location": "Russia",
@@ -13568,12 +13526,6 @@
                 "modelLink": "https://www.bmw-motorrad.co/es/models/tour/r1250rt.html",
                 "location": "Colombia",
                 "imageName": "0l01_colombia.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-r1250rt-P0N2U_600x360.jpg.asset.1623747200269.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.do/es/models/tour/r1250rt.html",
-                "location": "Dominican Republic",
-                "imageName": "0l01_dominican_republic.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.com.mx/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-master-modeloverview-r1250rt-P0N2U_600x360.jpg.asset.1623747200269.jpg",
@@ -13640,12 +13592,6 @@
                 "modelLink": "https://www.bmw-motorrad.co/es/models/roadster/r1250r.html",
                 "location": "Colombia",
                 "imageName": "0m71_colombia.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.com.do/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2022/nsc-r1250r-P0N2L-modeloverview-600x360.jpg.asset.1671011357459.jpg",
-                "modelLink": "https://www.bmw-motorrad.com.do/es/models/roadster/r1250r.html",
-                "location": "Dominican Republic",
-                "imageName": "0m71_dominican_republic.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.ru/content/dam/bmwmotorradnsc/common/images/models/modeloverview/rework/nsc-master-modeloverview-R1250R-YN2E_600x360.jpg.asset.1610445056539.jpg",
@@ -13773,6 +13719,12 @@
         "segment": "Tour",
         "modelCode": "0F51_S047A",
         "locations": [
+            {
+                "imgLink": "https://www.bmw-motorrad.ec/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-k1600ga-P0N3M-modeloverview-600x360.jpg.asset.1634200951821.jpg",
+                "modelLink": "https://www.bmw-motorrad.ec/es/models/tour/k1600-grand-america.html",
+                "location": "Ecuador",
+                "imageName": "0f51_s047a_ecuador.jpg"
+            },
             {
                 "imgLink": "https://www.bmw-motorrad.com.py/content/dam/bmwmotorradnsc/common/images/models/modeloverview/rework/nsc-master-modeloverview-K1600GRANDAMERICA-WND2_600x360.jpg.asset.1552665767931.jpg",
                 "modelLink": "https://www.bmw-motorrad.com.py/es/models/tour/k1600-grand-america.html",
