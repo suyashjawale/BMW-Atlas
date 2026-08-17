@@ -580,7 +580,7 @@
                 "imageName": "0p21_dubai.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.in/content/dam/bmwmotorradnsc/marketIN/bmw-motorrad_in/multiimages/new-bike-s1000rr.jpg.asset.1783343945138.jpg",
+                "imgLink": "https://www.bmw-motorrad.in/content/dam/bmwmotorradnsc/marketIN/bmw-motorrad_in/multiimages/new-bike-s1000rr.jpg.asset.1783337963406.jpg",
                 "modelLink": "https://www.bmw-motorrad.in/en/models/sport/s1000rr.html",
                 "location": "India",
                 "imageName": "0p21_india.jpg"
@@ -3614,6 +3614,12 @@
                 "modelLink": "https://www.bmw-motorrad.se/en/models/tour/k1600gtl.html",
                 "location": "Sweden",
                 "imageName": "0f31_sweden.jpg"
+            },
+            {
+                "imgLink": "https://www.bmw-motorrad.co.uk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2027/nsc-k1600gtl-P0ND2-modeloverview-600x360.jpg.asset.1780907887665.jpg",
+                "modelLink": "https://www.bmw-motorrad.co.uk/en/models/tour/k1600gtl.html",
+                "location": "The United Kingdom",
+                "imageName": "0f31_the_united_kingdom.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.com.tr/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2021/nsc-k1600gtl-P0N3N-modeloverview-600x360.jpg.asset.1634306663897.jpg",
@@ -9496,7 +9502,7 @@
                 "imageName": "0m31_dubai.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.in/content/dam/bmwmotorradnsc/marketIN/bmw-motorrad_in/multiimages/new-bike-img-icon-1300gsa.jpg.asset.1783343945112.jpg",
+                "imgLink": "https://www.bmw-motorrad.in/content/dam/bmwmotorradnsc/marketIN/bmw-motorrad_in/multiimages/new-bike-img-icon-1300gsa.jpg.asset.1783337963379.jpg",
                 "modelLink": "https://www.bmw-motorrad.in/en/models/adventure/r1300gs-adventure.html",
                 "location": "India",
                 "imageName": "0m34_india.jpg"
@@ -11734,12 +11740,6 @@
                 "imageName": "0c71_austria.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.cz/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
-                "modelLink": "https://www.bmw-motorrad.cz/cs/models/urban_mobility/ce02.html",
-                "location": "Czech Republic",
-                "imageName": "0c71_czech_republic.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.dk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
                 "modelLink": "https://www.bmw-motorrad.dk/en/models/urban_mobility/ce02.html",
                 "location": "Denmark",
@@ -11834,12 +11834,6 @@
                 "modelLink": "https://www.bmw-motorrad.rs/sr/models/urban_mobility/ce02.html",
                 "location": "Serbia",
                 "imageName": "0c71_serbia.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.sk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
-                "modelLink": "https://www.bmw-motorrad.sk/sk/models/urban_mobility/ce02.html",
-                "location": "Slovakia",
-                "imageName": "0c71_slovakia.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.si/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
@@ -12772,12 +12766,6 @@
         "modelCode": "0C81",
         "locations": [
             {
-                "imgLink": "https://www.bmw-motorrad.cz/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
-                "modelLink": "https://www.bmw-motorrad.cz/cs/models/urban_mobility/ce02/am.html",
-                "location": "Czech Republic",
-                "imageName": "0c81_czech_republic.jpg"
-            },
-            {
                 "imgLink": "https://www.bmw-motorrad.dk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
                 "modelLink": "https://www.bmw-motorrad.dk/en/models/urban_mobility/ce02/ce02am.html",
                 "location": "Denmark",
@@ -12794,12 +12782,6 @@
                 "modelLink": "https://www.bmw-motorrad.no/en/models/urban_mobility/ce02/ce02am.html",
                 "location": "Norway",
                 "imageName": "0c81_norway.jpg"
-            },
-            {
-                "imgLink": "https://www.bmw-motorrad.sk/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
-                "modelLink": "https://www.bmw-motorrad.sk/sk/models/urban_mobility/ce02/ce02.html",
-                "location": "Slovakia",
-                "imageName": "0c81_slovakia.jpg"
             },
             {
                 "imgLink": "https://www.bmw-motorrad.si/content/dam/bmwmotorradnsc/common/images/models/modeloverview/2023/nsc-ce02-P0N2Y-modeloverview-600x360.jpg.asset.1687963086118.jpg",
@@ -13066,7 +13048,7 @@
                 "imageName": "0l11_uruguay.jpg"
             },
             {
-                "imgLink": "https://www.bmw-motorrad.co.id/content/dam/bmwmotorradnsc/marketID_IMPORTER/common/multiimages/mainnavigation/nsc-master-modeloverview-R18PURE-POND2_600x360.jpg.asset.1783338967053.jpg",
+                "imgLink": "https://www.bmw-motorrad.co.id/content/dam/bmwmotorradnsc/marketID_IMPORTER/common/multiimages/mainnavigation/nsc-master-modeloverview-R18PURE-POND2_600x360.jpg.asset.1783343766310.jpg",
                 "modelLink": "https://www.bmw-motorrad.co.id/en/models/heritage/r18.html",
                 "location": "Indonesia",
                 "imageName": "0l11_indonesia.jpg"
